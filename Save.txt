@@ -1,0 +1,44 @@
+==== USER DATA ====
+----------------------------------------
+Customer: max
+VIP Status: false
+Registration Date: 2024-11-27 00:07:01
+----------------------------------------
+----------------------------------------
+Customer: Sonu
+VIP Status: false
+Registration Date: 2024-12-03 21:24:01
+----------------------------------------
+----------------------------------------
+Order Date: 2024-12-03 21:25:15
+Order ID: 1
+Customer Name: Sonu (Regular) (Regular)
+Delivery Address: a old boys
+Items Ordered:
+- Veg Roll x2 @ $45.00 each = $90.00
+Total Amount: $90.00
+Payment Status: Paid
+UPI Number: Sonu@hdfc566
+Special Request: none
+Order Status: Order Received
+----------------------------------------
+
+----------------------------------------
+Customer: Sonu
+VIP Status: false
+Registration Date: 2026-01-11 13:38:30
+----------------------------------------
+----------------------------------------
+Order Date: 2026-01-11 13:39:52
+Order ID: 1
+Customer Name: Sonu (Regular) (Regular)
+Delivery Address: a 868
+Items Ordered:
+- Samosa x2 @ $20.00 each = $40.00
+Total Amount: $40.00
+Payment Status: Paid
+UPI Number: 8506863846@pthdc
+Special Request: none
+Order Status: Order Received
+----------------------------------------
+
